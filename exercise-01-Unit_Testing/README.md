@@ -32,3 +32,8 @@ When the pull request is approved, merge to main branch, and ....voila!!!!
 
 * Before running code, do `npm ci` to install libraries in node_modules.
 * To compile and run the program: `npm run dev`.
+
+## Project Members
+
+* Carlos Pastor Yamunaque
+* Alejandro Alvarez Fernandez
